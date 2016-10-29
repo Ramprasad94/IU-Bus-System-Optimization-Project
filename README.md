@@ -7,6 +7,7 @@ Indiana University – Bloomington campus. Owing to the increasing
 student enrollment at the University over the years, the burden on the
 existing infrastructure to serve the needs of the commuters has grown
 proportionally.
+
 The IU Bus route optimization project provides a methodology to
 adapt to the increasing demand by studying the existing data from
 daily usage and suggesting schedule modifications and optimum usage
@@ -15,6 +16,7 @@ buses to their respective stops with appreciable reduction in travel
 times. The data that was used to perform analysis on was real time
 data collected over a period of time during the academic year 2014-
 2015.
+
 We transformed the data and performed analysis on the data. We
 calculated the average differences between actual times and scheduled
 times(variance) between any two consecutive stops for all the routes
